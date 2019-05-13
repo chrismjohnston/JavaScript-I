@@ -10,10 +10,10 @@ let myFunction = () => {
 };
 myFunction();
 
-let anotherFunction = function (param) {
-  return param;
-};
-anotherFunction("Example");
+// let anotherFunction = function (param) {
+//   return param;
+// };
+// anotherFunction("Example");
 
 let anotherFunction = (param) => param;
 anotherFunction("Example");
